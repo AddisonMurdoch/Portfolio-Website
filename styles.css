@@ -1,4 +1,7 @@
 body 
-{ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+{background-color:tan;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
 h1
-{background-color: aquamarine;}
+{text-align: center;
+background-color: rgb(61, 66, 219);
+padding: 20px}
