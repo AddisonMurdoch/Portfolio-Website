@@ -1,13 +1,14 @@
 body 
 {background-color:tan;
 font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+body
+{
+text-align: center;
+}
 h1
-{text-align: center;
+{
 background-color: rgb(61, 66, 219);
 padding: 20px}
-h2
-{text-align: center;
-}
 div.box
 {
 height: 300px;
@@ -23,17 +24,30 @@ background-color: aliceblue;
 p
 {
 text-align: center;
-padding: 20px
 }
-img.aling-center
+img.large
 {
 display: block;
-margin: 0px auto
+margin: 20px auto
+}
+img.large
+{
+height: 550px;
+width: 550px;
+}
+h2
+{
+font-weight: bold;
 }
 img.medium
 {
-height: 300px;
-width: 300px;
+display: block;
+margin: 20px auto
+}
+img.medium
+{
+height: 500px;
+width: 700px;
 }
 
 
